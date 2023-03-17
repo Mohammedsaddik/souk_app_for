@@ -1,0 +1,6 @@
+package com.example.souk_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
